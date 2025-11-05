@@ -1,0 +1,8 @@
+# Requirements for OIT/ML scripts
+numpy
+matplotlib
+pandas
+scikit-learn
+mlxtend
+ipython
+tensorflow
