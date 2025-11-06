@@ -92,4 +92,4 @@ MIT License
 
 ## 👤 Author
 
-Richiesss
+島野 凌
