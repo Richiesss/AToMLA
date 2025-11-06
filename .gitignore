@@ -69,7 +69,7 @@ dmypy.json
 *.log
 
 # Data files (optional - uncomment if you don't want to track data)
-# data/
-# *.csv
-# *.h5
-# *.pkl
+data/
+*.csv
+*.h5
+*.pkl
